@@ -5,3 +5,4 @@ step 1: Hadoop runs using Docker
 
 step 2: Make a input Directory
 
+![2](https://github.com/user-attachments/assets/509690bd-c21d-46cc-b390-639942524f02)
