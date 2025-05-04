@@ -1,3 +1,4 @@
 # Big_data_analysis_IOT
 
-![2](https://github.com/user-attachments/assets/a23cd440-e87b-439d-9ca7-ab2e20f085b0)
+Hadoop run using Docker
+![Screenshot 2025-04-28 165017](https://github.com/user-attachments/assets/b096a10d-8660-47ae-ba87-c83ed889773c)
