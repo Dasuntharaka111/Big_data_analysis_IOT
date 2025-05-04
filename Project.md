@@ -18,5 +18,5 @@ Step 5: MapReduce Java
 Step 6: Compile and Run the Map Reduce
 ![7](https://github.com/user-attachments/assets/31c152b3-f5d0-4284-b949-eb063bfbf896)
 
-Output
+Output:
 ![final](https://github.com/user-attachments/assets/af4b31b6-6998-4c39-9c91-fd5deafd68fe)
